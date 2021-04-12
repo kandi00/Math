@@ -9,7 +9,7 @@ from functools import reduce
 import operator
 
 
-#GIFT WRAPPING Algorythm
+#GIFT WRAPPING Algorithm
 
 def gift_wrapping():
 
@@ -119,7 +119,7 @@ def szog(O, P):
 
 
 
-#QUICK HULL
+#QUICK HULL algorithm
 
 def hull():
 
@@ -257,7 +257,7 @@ def halmazok(S, i, j, k):
 
 
 
-#Graham Scan Algorythm
+#Graham Scan algorithm
 
 def graham_scan():
 
