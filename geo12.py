@@ -9,6 +9,8 @@ from functools import reduce
 import operator
 
 
+#GIFT WRAPPING Algorythm
+
 def gift_wrapping():
 
      #Random pontok generalasa
@@ -255,7 +257,7 @@ def halmazok(S, i, j, k):
 
 
 
-#Graham Scan
+#Graham Scan Algorythm
 
 def graham_scan():
 
