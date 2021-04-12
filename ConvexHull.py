@@ -119,7 +119,7 @@ def szog(O, P):
 
 
 
-#QUICK HULL algorithm
+#QUICK HULL Algorithm
 
 def hull():
 
